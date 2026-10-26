@@ -1,0 +1,13 @@
+{
+  "id": "orpheus-dan",
+  "name": "Dan",
+  "description": "Deep steady — supports emotion tags (laugh, sigh, gasp).",
+  "provider": "orpheus",
+  "voiceId": "dan",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": ["emotional", "expressive", "male"],
+  "previewText": "Hey there! <laugh> This is the dan voice, and I can actually show emotion."
+}

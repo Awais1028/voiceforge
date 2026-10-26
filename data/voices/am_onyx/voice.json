@@ -1,0 +1,16 @@
+{
+  "id": "am_onyx",
+  "name": "Onyx",
+  "description": "Rich low register. Dramatic.",
+  "provider": "kokoro",
+  "voiceId": "am_onyx",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "deep",
+    "dramatic"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

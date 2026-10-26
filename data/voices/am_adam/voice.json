@@ -1,0 +1,16 @@
+{
+  "id": "am_adam",
+  "name": "Adam",
+  "description": "Strong and grounded. Documentary feel.",
+  "provider": "kokoro",
+  "voiceId": "am_adam",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "strong",
+    "documentary"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

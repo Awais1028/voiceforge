@@ -1,0 +1,16 @@
+{
+  "id": "af_alloy",
+  "name": "Alloy",
+  "description": "Neutral and balanced. Professional default.",
+  "provider": "kokoro",
+  "voiceId": "af_alloy",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "neutral",
+    "professional"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

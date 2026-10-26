@@ -1,0 +1,16 @@
+{
+  "id": "af_aoede",
+  "name": "Aoede",
+  "description": "Melodic and soft. Storytelling.",
+  "provider": "kokoro",
+  "voiceId": "af_aoede",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "soft",
+    "storytelling"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

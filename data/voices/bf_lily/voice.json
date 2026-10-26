@@ -1,0 +1,16 @@
+{
+  "id": "bf_lily",
+  "name": "Lily",
+  "description": "Light and youthful British accent.",
+  "provider": "kokoro",
+  "voiceId": "bf_lily",
+  "language": "en",
+  "accent": "British",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "british",
+    "youthful"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

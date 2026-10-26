@@ -1,0 +1,16 @@
+{
+  "id": "bm_lewis",
+  "name": "Lewis",
+  "description": "Deep, authoritative British tone.",
+  "provider": "kokoro",
+  "voiceId": "bm_lewis",
+  "language": "en",
+  "accent": "British",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "british",
+    "deep"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

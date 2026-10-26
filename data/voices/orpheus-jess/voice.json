@@ -1,0 +1,13 @@
+{
+  "id": "orpheus-jess",
+  "name": "Jess",
+  "description": "Youthful energetic — supports emotion tags (laugh, sigh, gasp).",
+  "provider": "orpheus",
+  "voiceId": "jess",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": ["emotional", "expressive", "female"],
+  "previewText": "Hey there! <laugh> This is the jess voice, and I can actually show emotion."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bf_isabella",
+  "name": "Isabella",
+  "description": "Soft, graceful British tone.",
+  "provider": "kokoro",
+  "voiceId": "bf_isabella",
+  "language": "en",
+  "accent": "British",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "british",
+    "soft"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

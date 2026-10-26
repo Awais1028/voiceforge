@@ -1,0 +1,16 @@
+{
+  "id": "bm_george",
+  "name": "George",
+  "description": "Distinguished British narrator. Audiobooks.",
+  "provider": "kokoro",
+  "voiceId": "bm_george",
+  "language": "en",
+  "accent": "British",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "british",
+    "audiobook"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

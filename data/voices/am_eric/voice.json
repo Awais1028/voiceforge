@@ -1,0 +1,16 @@
+{
+  "id": "am_eric",
+  "name": "Eric",
+  "description": "Clear and professional.",
+  "provider": "kokoro",
+  "voiceId": "am_eric",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "clear",
+    "professional"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

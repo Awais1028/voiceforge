@@ -1,0 +1,16 @@
+{
+  "id": "af_river",
+  "name": "River",
+  "description": "Relaxed and natural.",
+  "provider": "kokoro",
+  "voiceId": "af_river",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "relaxed",
+    "natural"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

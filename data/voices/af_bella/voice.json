@@ -1,0 +1,16 @@
+{
+  "id": "af_bella",
+  "name": "Bella",
+  "description": "Bright and energetic. Good for upbeat content.",
+  "provider": "kokoro",
+  "voiceId": "af_bella",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "bright",
+    "energetic"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

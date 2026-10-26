@@ -1,0 +1,16 @@
+{
+  "id": "af_sky",
+  "name": "Sky",
+  "description": "Light, airy, youthful tone.",
+  "provider": "kokoro",
+  "voiceId": "af_sky",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "light",
+    "youthful"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

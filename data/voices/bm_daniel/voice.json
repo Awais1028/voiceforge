@@ -1,0 +1,16 @@
+{
+  "id": "bm_daniel",
+  "name": "Daniel",
+  "description": "Calm, measured British delivery.",
+  "provider": "kokoro",
+  "voiceId": "bm_daniel",
+  "language": "en",
+  "accent": "British",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "british",
+    "calm"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

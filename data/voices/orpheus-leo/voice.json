@@ -1,0 +1,13 @@
+{
+  "id": "orpheus-leo",
+  "name": "Leo",
+  "description": "Confident clear — supports emotion tags (laugh, sigh, gasp).",
+  "provider": "orpheus",
+  "voiceId": "leo",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": ["emotional", "expressive", "male"],
+  "previewText": "Hey there! <laugh> This is the leo voice, and I can actually show emotion."
+}

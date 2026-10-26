@@ -1,0 +1,16 @@
+{
+  "id": "af_nicole",
+  "name": "Nicole",
+  "description": "Intimate, close-mic ASMR-style delivery.",
+  "provider": "kokoro",
+  "voiceId": "af_nicole",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "intimate",
+    "asmr"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

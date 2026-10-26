@@ -1,0 +1,13 @@
+{
+  "id": "orpheus-zac",
+  "name": "Zac",
+  "description": "Casual friendly — supports emotion tags (laugh, sigh, gasp).",
+  "provider": "orpheus",
+  "voiceId": "zac",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": ["emotional", "expressive", "male"],
+  "previewText": "Hey there! <laugh> This is the zac voice, and I can actually show emotion."
+}

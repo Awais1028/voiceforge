@@ -1,0 +1,16 @@
+{
+  "id": "af_nova",
+  "name": "Nova",
+  "description": "Smooth and modern. Clean podcast feel.",
+  "provider": "kokoro",
+  "voiceId": "af_nova",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "smooth",
+    "podcast"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

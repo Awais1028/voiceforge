@@ -1,0 +1,16 @@
+{
+  "id": "bf_alice",
+  "name": "Alice",
+  "description": "Polished and articulate.",
+  "provider": "kokoro",
+  "voiceId": "bf_alice",
+  "language": "en",
+  "accent": "British",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "british",
+    "polished"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

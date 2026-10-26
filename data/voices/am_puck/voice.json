@@ -1,0 +1,16 @@
+{
+  "id": "am_puck",
+  "name": "Puck",
+  "description": "Playful and lively.",
+  "provider": "kokoro",
+  "voiceId": "am_puck",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "playful",
+    "lively"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

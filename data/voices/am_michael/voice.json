@@ -1,0 +1,17 @@
+{
+  "id": "am_michael",
+  "name": "Michael",
+  "description": "Deep, steady, trustworthy — classic narrator.",
+  "provider": "kokoro",
+  "voiceId": "am_michael",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "deep",
+    "narration",
+    "youtube"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "af_heart",
+  "name": "Heart",
+  "description": "Warm, friendly, expressive — great all-round narrator.",
+  "provider": "kokoro",
+  "voiceId": "af_heart",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "warm",
+    "narration",
+    "youtube"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

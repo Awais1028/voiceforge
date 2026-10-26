@@ -1,0 +1,13 @@
+{
+  "id": "orpheus-tara",
+  "name": "Tara",
+  "description": "Warm expressive conversational — supports emotion tags (laugh, sigh, gasp).",
+  "provider": "orpheus",
+  "voiceId": "tara",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": ["emotional", "expressive", "female"],
+  "previewText": "Hey there! <laugh> This is the tara voice, and I can actually show emotion."
+}

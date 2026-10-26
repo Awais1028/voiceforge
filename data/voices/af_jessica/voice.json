@@ -1,0 +1,16 @@
+{
+  "id": "af_jessica",
+  "name": "Jessica",
+  "description": "Confident and crisp.",
+  "provider": "kokoro",
+  "voiceId": "af_jessica",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "confident",
+    "crisp"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

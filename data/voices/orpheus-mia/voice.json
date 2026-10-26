@@ -1,0 +1,13 @@
+{
+  "id": "orpheus-mia",
+  "name": "Mia",
+  "description": "Calm gentle — supports emotion tags (laugh, sigh, gasp).",
+  "provider": "orpheus",
+  "voiceId": "mia",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": ["emotional", "expressive", "female"],
+  "previewText": "Hey there! <laugh> This is the mia voice, and I can actually show emotion."
+}

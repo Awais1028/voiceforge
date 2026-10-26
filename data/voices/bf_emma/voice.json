@@ -1,0 +1,17 @@
+{
+  "id": "bf_emma",
+  "name": "Emma",
+  "description": "Refined British RP. Elegant narration.",
+  "provider": "kokoro",
+  "voiceId": "bf_emma",
+  "language": "en",
+  "accent": "British",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "british",
+    "elegant",
+    "narration"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

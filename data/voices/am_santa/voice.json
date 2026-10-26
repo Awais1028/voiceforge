@@ -1,0 +1,16 @@
+{
+  "id": "am_santa",
+  "name": "Santa",
+  "description": "Warm, jolly, characterful.",
+  "provider": "kokoro",
+  "voiceId": "am_santa",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "character",
+    "warm"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

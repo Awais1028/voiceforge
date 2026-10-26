@@ -1,0 +1,17 @@
+{
+  "id": "af_sarah",
+  "name": "Sarah",
+  "description": "Calm and clear. Reliable for explainers.",
+  "provider": "kokoro",
+  "voiceId": "af_sarah",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "calm",
+    "clear",
+    "explainer"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "am_liam",
+  "name": "Liam",
+  "description": "Friendly and conversational.",
+  "provider": "kokoro",
+  "voiceId": "am_liam",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "friendly",
+    "casual"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

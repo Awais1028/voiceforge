@@ -1,0 +1,16 @@
+{
+  "id": "am_fenrir",
+  "name": "Fenrir",
+  "description": "Bold and commanding.",
+  "provider": "kokoro",
+  "voiceId": "am_fenrir",
+  "language": "en",
+  "accent": "American",
+  "gender": "male",
+  "sampleRate": 24000,
+  "tags": [
+    "bold",
+    "commanding"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}

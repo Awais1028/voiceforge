@@ -1,0 +1,16 @@
+{
+  "id": "af_kore",
+  "name": "Kore",
+  "description": "Measured and articulate.",
+  "provider": "kokoro",
+  "voiceId": "af_kore",
+  "language": "en",
+  "accent": "American",
+  "gender": "female",
+  "sampleRate": 24000,
+  "tags": [
+    "measured",
+    "articulate"
+  ],
+  "previewText": "This is a preview of my voice. I can narrate your scripts clearly and naturally."
+}
